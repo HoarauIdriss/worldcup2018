@@ -8,7 +8,7 @@
 var reponse = "";
 var services = function (param, cb) {
 
-    var service = "http://localhost:3012/";
+    var service = "http://localhost:3008/";
 
     switch (param) {
         case 'equipes':
