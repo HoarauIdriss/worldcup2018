@@ -8,7 +8,11 @@
 var reponse = "";
 var services = function (param, cb) {
 
+<<<<<<< HEAD
     var service = "http://localhost:3008/";
+=======
+    var service = "http://localhost:3020/";
+>>>>>>> worldcup2018/master
 
     switch (param) {
         case 'equipes':
